@@ -1,0 +1,15 @@
+C:\Users\SAHIL\Desktop\Operations with fundamental operators\country budget calculation\country budget calculation\bin\Debug\net6.0\country budget calculation.exe
+C:\Users\SAHIL\Desktop\Operations with fundamental operators\country budget calculation\country budget calculation\bin\Debug\net6.0\country budget calculation.deps.json
+C:\Users\SAHIL\Desktop\Operations with fundamental operators\country budget calculation\country budget calculation\bin\Debug\net6.0\country budget calculation.runtimeconfig.json
+C:\Users\SAHIL\Desktop\Operations with fundamental operators\country budget calculation\country budget calculation\bin\Debug\net6.0\country budget calculation.dll
+C:\Users\SAHIL\Desktop\Operations with fundamental operators\country budget calculation\country budget calculation\bin\Debug\net6.0\country budget calculation.pdb
+C:\Users\SAHIL\Desktop\Operations with fundamental operators\country budget calculation\country budget calculation\obj\Debug\net6.0\country budget calculation.csproj.AssemblyReference.cache
+C:\Users\SAHIL\Desktop\Operations with fundamental operators\country budget calculation\country budget calculation\obj\Debug\net6.0\country budget calculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAHIL\Desktop\Operations with fundamental operators\country budget calculation\country budget calculation\obj\Debug\net6.0\country budget calculation.AssemblyInfoInputs.cache
+C:\Users\SAHIL\Desktop\Operations with fundamental operators\country budget calculation\country budget calculation\obj\Debug\net6.0\country budget calculation.AssemblyInfo.cs
+C:\Users\SAHIL\Desktop\Operations with fundamental operators\country budget calculation\country budget calculation\obj\Debug\net6.0\country budget calculation.csproj.CoreCompileInputs.cache
+C:\Users\SAHIL\Desktop\Operations with fundamental operators\country budget calculation\country budget calculation\obj\Debug\net6.0\country budget calculation.dll
+C:\Users\SAHIL\Desktop\Operations with fundamental operators\country budget calculation\country budget calculation\obj\Debug\net6.0\refint\country budget calculation.dll
+C:\Users\SAHIL\Desktop\Operations with fundamental operators\country budget calculation\country budget calculation\obj\Debug\net6.0\country budget calculation.pdb
+C:\Users\SAHIL\Desktop\Operations with fundamental operators\country budget calculation\country budget calculation\obj\Debug\net6.0\country budget calculation.genruntimeconfig.cache
+C:\Users\SAHIL\Desktop\Operations with fundamental operators\country budget calculation\country budget calculation\obj\Debug\net6.0\ref\country budget calculation.dll
